@@ -41,8 +41,7 @@ As a data science graduate student, I'm captivated by the stories hidden within 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Matplotlib](https://camo.githubusercontent.com/58bfe5f46be0cf6c7d0b34f17a83ad69250fc9180ef95018eacfd283cdc61c10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174706c6f746c6962266c6f676f436f6c6f723d7768697465)
-![NLTK](![image](https://github.com/prathmeshlonkar10/prathmeshlonkar10/assets/66990159/78900210-82f4-4183-9da7-ad65bcdc133a)
-)
+![NLTK](![image](https://github.com/prathmeshlonkar10/prathmeshlonkar10/assets/66990159/48445563-fef3-4837-a105-4510d32ff289)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
 ![Seaborn](https://private-user-images.githubusercontent.com/66990159/294386275-c6779c00-9f17-4351-bce5-6dad0de4e002.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUxODA3MTMsIm5iZiI6MTcwNTE4MDQxMywicGF0aCI6Ii82Njk5MDE1OS8yOTQzODYyNzUtYzY3NzljMDAtOWYxNy00MzUxLWJjZTUtNmRhZDBkZTRlMDAyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTEzVDIxMTMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZjYmQ0OTMyYzQzMDhmN2EzMmZiZDM1MzExNjk0YjIxN2I5Y2YyYmRlYjYxNDE1NWNlMzEzMmI2NWI2MGM5MDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.q-4leXE8SqfZ7X9UPGlT77mIR9zsOw2iOrmG7mKc5b8)
 
