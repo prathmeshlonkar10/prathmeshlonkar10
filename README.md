@@ -8,7 +8,7 @@ As a data science graduate student, I'm captivated by the stories hidden within 
 - 🚀 Data Science world unlocked! My skills blossomed, securing me a **Data Science, ML & Product Dev Internship** in my final semester, where I merged my analytical mind with data's magic to shape **intuitive products**
 - 🎓 After my graduation in 2021, I joined **Larsen and Toubro Infotech (LTI)** and worked my way up to become a **Senior Product Engineer** in the Data Engineering and Products domain
 - ✨ Swapping gears for data pipelines! Undertaking roles as an **ETL and Python developer** at LTI (presently **LTIMindtree**), I became a master at solving client data puzzles and migration requirements. I built pipelines and developed scripts that helped them fulfill their incremental data needs, and I even professionally trained many stakeholders & clients to use LTI's data products
-- 🔭 Experiencing such an exciting journey, currently I am pursuing a Master's in Applied Data Science at the University of Southern California and unraveling data's secrets one step at a time<br>
+- 🔭 Experiencing such an exciting journey, currently I am pursuing a **Master's in Applied Data Science** at the **University of Southern California** and unraveling data's secrets one step at a time<br>
      
 
 ## Technologies worked on
